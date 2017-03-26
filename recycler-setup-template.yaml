@@ -26,7 +26,7 @@ parameters:
 - description: 'Choose an alternative repository and/or image'
   name: IMAGE
   required: false
-  value: "docker.io/davemccormickig/gluster-recycler"
+  value: "docker.io/thedigitalgarage/gluster-recycler"
 objects:
 - apiVersion: v1
   kind: ServiceAccount
